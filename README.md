@@ -1,5 +1,6 @@
 # split_gpx
 Split given gpx file into several files of given maximum length.
+Requires [gpxpy](https://pypi.org/project/gpxpy/).
 
 ```
 $ python split_gpx.py -h
